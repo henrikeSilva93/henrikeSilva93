@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @henrikeSilva93
-- Estudante do curso de Análise e desenvolvimento de sistemas no Centro universitário IESB Campus OESTE  em Brasília - DF
+- Desenvolvedor web apaixonado por tecnologia e Programação. Atualmente sou desenvolvedor em uma empresa nacional e estudante do curso de análise e desenvolvimento de sistemas
